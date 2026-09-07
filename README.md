@@ -35,7 +35,7 @@ The installer is currently unsigned. Windows SmartScreen may show an “Unknown 
 PowerShell verification:
 
 ```powershell
-Get-FileHash -Algorithm SHA256 -LiteralPath '.\NoveMD Setup 2.0.11.exe'
+Get-FileHash -Algorithm SHA256 -LiteralPath '.\NoveMD.Setup.2.0.11.exe'
 ```
 
 Expected SHA-256:

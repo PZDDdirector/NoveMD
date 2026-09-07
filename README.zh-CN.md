@@ -35,7 +35,7 @@ NoveMD 是一款专有的 Windows 桌面软件。本公开仓库仅作为 NoveMD
 在 PowerShell 中核验：
 
 ```powershell
-Get-FileHash -Algorithm SHA256 -LiteralPath '.\NoveMD Setup 2.0.11.exe'
+Get-FileHash -Algorithm SHA256 -LiteralPath '.\NoveMD.Setup.2.0.11.exe'
 ```
 
 正确的 SHA-256：
