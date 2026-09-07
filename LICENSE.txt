@@ -1,0 +1,30 @@
+NoveMD Proprietary Binary Distribution Notice
+
+Copyright (c) 2024-2026 NoveMD. All rights reserved.
+
+NoveMD is proprietary commercial software. The official NoveMD installer made
+available through this repository may be downloaded and installed solely for
+evaluation during the offered trial period or for use under a valid NoveMD
+licence and the terms published at https://buer.store/terms.
+
+No permission is granted to copy, modify, republish, redistribute, sublicense,
+sell, reverse engineer, circumvent licensing controls, or create derivative
+works from NoveMD except where expressly authorised in writing by the NoveMD
+rightsholder or where applicable law provides a non-waivable right.
+
+This public download repository does not provide or license the NoveMD
+application source code. Repository documentation, product artwork, the NoveMD
+name, logo, official distribution channels, hosted activation service and
+payment service remain protected and are not licensed for reuse.
+
+Third-party and open-source components remain governed by their respective
+licences. Their notices are provided in THIRD_PARTY_NOTICES.md and, where
+applicable, with the distributed software. Nothing in this notice limits rights
+granted directly by a third-party licence.
+
+Privacy policy: https://buer.store/privacy
+Refund policy: https://buer.store/refund
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE SOFTWARE IS PROVIDED
+WITHOUT WARRANTIES EXCEPT THOSE THAT CANNOT LEGALLY BE EXCLUDED.
+

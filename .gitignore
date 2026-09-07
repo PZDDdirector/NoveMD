@@ -1,0 +1,21 @@
+# Release binaries are uploaded through GitHub Releases, never committed to Git.
+*.exe
+*.blockmap
+latest*.yml
+latest*.yaml
+
+# Never publish credentials, databases, backups or licence-code inventories.
+.env
+.env.*
+*.key
+*.pem
+*.pfx
+*.p12
+*.db
+*.sqlite
+*.sqlite3
+*.age
+*backup*
+*voucher*
+*兑换码*
+
