@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="README.zh-CN.md">简体中文</a> · English<br>
-  <a href="https://buer.store/download"><strong>Download 2.0.11</strong></a> ·
+  <a href="https://buer.store/download"><strong>Download 2.0.12</strong></a> ·
   <a href="../../releases/latest">GitHub Release</a> ·
   <a href="https://buer.store/pricing">Buy a perpetual licence</a>
 </p>
@@ -90,16 +90,16 @@ While many tools concentrate on Markdown authoring, NoveMD focuses on the comple
 
 ## Download and verify
 
-The current public release is **NoveMD 2.0.11** for **64-bit Windows 10 and Windows 11 on Intel or AMD processors**.
+The current public release is **NoveMD 2.0.12** for **64-bit Windows 10 and Windows 11 on Intel or AMD processors**.
 
 - [Download from the official website](https://buer.store/download)
 - [Download from GitHub Releases](../../releases/latest)
-- [Read the 2.0.11 release notes](releases/v2.0.11.md)
+- [Read the 2.0.12 release notes](releases/v2.0.12.md)
 
 The installer is currently unsigned, so Windows SmartScreen may show an “Unknown publisher” warning. Download only from the official website or this repository and verify the SHA-256 supplied with the release:
 
 ```text
-FFA9E1C93D707C125A9381FFA6F7AA6B51FD3C2266356A2AA663433CAC0F3B41
+E846358505F14C8DF65D29E08F5928522D2A098D45B09E18E58E8E6FFF0EAE89
 ```
 
 ## Trial and perpetual licence

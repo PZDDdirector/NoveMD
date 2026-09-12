@@ -10,7 +10,7 @@
 
 <p align="center">
   简体中文 · <a href="README.md">English</a><br>
-  <a href="https://buer.store/download"><strong>下载 2.0.11</strong></a> ·
+  <a href="https://buer.store/download"><strong>下载 2.0.12</strong></a> ·
   <a href="../../releases/latest">GitHub Release</a> ·
   <a href="https://buer.store/pricing">购买永久授权</a>
 </p>
@@ -90,16 +90,16 @@ NoveMD 的优势不只是导出不同文件后缀。它会尽量保留原文的�
 
 ## 下载与校验
 
-当前公开版本为 **NoveMD 2.0.11**，适用于 **Windows 10/11 64 位系统（Intel 或 AMD）**。
+当前公开版本为 **NoveMD 2.0.12**，适用于 **Windows 10/11 64 位系统（Intel 或 AMD）**。
 
 - [从官方网站下载](https://buer.store/download)
 - [从 GitHub Releases 下载](../../releases/latest)
-- [查看 2.0.11 版本说明](releases/v2.0.11.md)
+- [查看 2.0.12 版本说明](releases/v2.0.12.md)
 
 安装包目前尚未进行代码签名，Windows SmartScreen 可能显示“未知发布者”。请只从官方网站或本仓库下载，并核对 Release 同时提供的 SHA-256：
 
 ```text
-FFA9E1C93D707C125A9381FFA6F7AA6B51FD3C2266356A2AA663433CAC0F3B41
+E846358505F14C8DF65D29E08F5928522D2A098D45B09E18E58E8E6FFF0EAE89
 ```
 
 ## 试用与永久授权
